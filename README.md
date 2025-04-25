@@ -16,8 +16,8 @@
 
 [代码 pdf（有目录）](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/code.pdf?flush_cache=true)
 
-[代码 pdf 的 quarto 源代码 ipynb](https://raw.githubusercontent.com/Cynthian-pshds/course-paper/refs/heads/main/optimization/code-source/code.ipynb)
+[代码 pdf 的 quarto 源代码（ipynb）](https://raw.githubusercontent.com/Cynthian-pshds/course-paper/refs/heads/main/optimization/code-source/code.ipynb)
 
 [简短报告 pdf（有目录）](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/short-report.pdf?flush_cache=true)
 
-[简短报告 pdf 的 quarto 源代码 qmd](https://raw.githubusercontent.com/Cynthian-pshds/course-paper/refs/heads/main/optimization/short-report-source/short-report.qmd)
+[简短报告 pdf 的 quarto 源代码（qmd）](https://github.com/Cynthian-pshds/course-paper/tree/main/optimization/short-report-source)
