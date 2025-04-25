@@ -6,7 +6,7 @@
 
 ## 最优化方法（凸优化）
 
-[供查看的代码ipynb](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/code.ipynb)
+[供查看的代码ipynb(无法查看目录)](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/code.ipynb)
 
 [代码pdf的源代码ipynb](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/code-source/code.ipynb)
 
