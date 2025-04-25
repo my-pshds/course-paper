@@ -1,6 +1,6 @@
 ---
 title: 期末简短实验报告
-author: pxz
+author: 学号10214810424
 date: 2024-12-27
 format:
   typst:
@@ -17,7 +17,7 @@ number-sections: true
 number-depth: 3
 ---
 
-本文依靠的计算代码见：**[nbviwer链接](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/%E4%BB%A3%E7%A0%81%E5%92%8C%E9%99%84%E6%B3%A8.ipynb)**
+本文依靠的计算代码见：[点击此链接](https://github.com/Cynthian-pshds/course-paper/blob/main/README.md#%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E5%87%B8%E4%BC%98%E5%8C%96)
 
 # 参考资料
 \
