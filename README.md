@@ -6,11 +6,11 @@
 
 ## 最优化方法（凸优化）
 
-[供查看的代码ipynb（无目录）](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/code.ipynb)
+[供查看的代码 ipynb（无目录）](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/code.ipynb)
 
-[代码pdf的quarto源代码ipynb](https://github.com/Cynthian-pshds/course-paper/blob/main/optimization/code-source/code.ipynb)
+[代码 pdf 的 quarto 源代码 ipynb](https://raw.githubusercontent.com/Cynthian-pshds/course-paper/refs/heads/main/optimization/code-source/code.ipynb)
 
-[简短报告pdf](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/short-report.pdf)
+[简短报告 pdf](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/short-report.pdf)
 
-[简短报告pdf的quarto源代码qmd](https://github.com/Cynthian-pshds/course-paper/blob/main/optimization/short-report-source/short-report.qmd)
+[简短报告 pdf 的 quarto 源代码 qmd](https://raw.githubusercontent.com/Cynthian-pshds/course-paper/refs/heads/main/optimization/short-report-source/short-report.qmd)
 
