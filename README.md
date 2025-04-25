@@ -4,6 +4,8 @@
 
 ## 线性代数进阶（矩阵分析）
 
+[匿名版 pdf](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/xxdsjj.pdf)
+
 ## 最优化方法（凸优化）
 
 [供查看的代码 ipynb（无目录）](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/code.ipynb)
