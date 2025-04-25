@@ -1,6 +1,6 @@
 ---
 title: 期末简短实验报告
-author: 学号10214810424
+author: pxz
 date: 2024-12-27
 format:
   typst:
