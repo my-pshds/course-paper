@@ -10,6 +10,7 @@
 
 [代码pdf的源代码ipynb](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/code-source/code.ipynb)
 
+[简短报告pdf](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/short-report.pdf)
+
 [简短报告pdf的源代码qmd](https://github.com/Cynthian-pshds/course-paper/blob/main/optimization/short-report-source/short-report.qmd)
 
-[简短报告pdf](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/short-report.pdf)
