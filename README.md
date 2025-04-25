@@ -21,4 +21,3 @@
 [简短报告 pdf（有目录）](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/short-report.pdf)
 
 [简短报告 pdf 的 quarto 源代码 qmd](https://raw.githubusercontent.com/Cynthian-pshds/course-paper/refs/heads/main/optimization/short-report-source/short-report.qmd)
-
