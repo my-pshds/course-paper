@@ -14,6 +14,8 @@
 
 [代码 html（PC 端访问有目录）](https://cynthian-pshds.github.io/course-paper/optimization/code-source/code.html)
 
+[代码 pdf（有目录）](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/code.pdf)
+
 [代码 pdf 的 quarto 源代码 ipynb](https://raw.githubusercontent.com/Cynthian-pshds/course-paper/refs/heads/main/optimization/code-source/code.ipynb)
 
 [简短报告 pdf（有目录）](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/optimization/short-report.pdf)
