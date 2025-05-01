@@ -2,7 +2,7 @@
 
 # 本科
 
-## 线性代数进阶（矩阵分析）
+## 线性代数进阶（工科矩阵分析入门）
 
 [匿名版 pdf](https://nbviewer.org/github/Cynthian-pshds/course-paper/blob/main/xxdsjj.pdf?flush_cache=true)
 
